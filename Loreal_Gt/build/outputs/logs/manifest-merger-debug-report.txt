@@ -1,0 +1,1461 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:1-371:12
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:1-371:12
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:1-371:12
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:1-371:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5534f2a0e99450d855a5fbd22d6d092c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\793a8c5b05f7c2db7080f06588dfae8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d0ba8d27e8ba0c038e1ebb3d2f012454\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\f90f29eec441fa1716db14d38bd575aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\android-observablescrollview-1.6.0.aar\578a2fbd05c9201402c7de9c5af0ae0f\AndroidManifest.xml:17:1-23:12
+MERGED from [:library] E:\Loreal_GT_MT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.3] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\core-0.9.4.3.aar\b11a4c915d8040e006c6d6bb7c23ca1f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\536d75a4f56c39053bb879d83e99f6c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\5077262ee5505762c50c6bb51ab8f59f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f2092ee8d318074834529d3f3732a970\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\93caca06025151027a97c0d189660e6c\AndroidManifest.xml:16:1-25:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:2:1-19:12
+MERGED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.afollestad:easyvideoplayer:0.3.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\easyvideoplayer-0.3.0.aar\6c3809fe6bf28ecd6a58baf1cf980f47\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\277b42d9cc29574426083d20671fea5f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dadb5c89bbb7a7e0df90461a80c9aea7\AndroidManifest.xml:17:1-24:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\1e84b2f159121b69f0093e2936d7e4f0\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ea6d0eaa3375177d32d290f3461d3ad0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\153ea94ea73fd6124b8785d3cf6fa1af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\892e55ffe1d0bfb2ab679b264065f158\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\4114ff4415f3239842cced909b148f2f\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\8035de123294c047f89141ff5f81592c\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\c5154435a2c98ca5d72aa57839a796a3\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\151d0f5ea81a75ce5389ee71d62c60c5\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\f9ab3864e6637400e272895a09304515\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\8ebd50f231710277dcb85a93155b774f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\69d89bb03a9ccdfd16a6c1e6ecdf3005\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\14e29de5d49effde80a1e034f8ee1043\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\ff5dd31574d342b886a47e78b8d118c7\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\7b071b112b7433caa55a4e5e3056c26b\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\e95cbd00ec65d318ef446349d82f07c0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\6927ff901c5729ba15a38605aa086bd1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\6b149d1e9724f1ef9d7ef93f4505cf93\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\a49d649e0141f29381860aaf88d57527\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\2be6ebd52257d69a16d1345140ae3eef\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\6d00a451772aca47e82be9ceb5f7206c\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\f5dfd45ae0281e38f74ebde304f6c38b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\78b571a07a8616770ad5a2084af4ee5d\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\dd94b56a659ce9ea9e25ed71aca1df5d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\706855afc8a50490268a1dc015228306\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\24704d211ffec709639b90d7d96992cf\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\226c9862c88baa894fcda3fda6328f00\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\35b6bd7da4eba0625a4b0d04a614fac1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\c177eb2223747e867b0db38eb1fb4f05\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\a7757cab581ade63d792b77952cadc26\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\07a4d889f653763259b1e8403045e2ef\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\be9719a5a84f22dd52b7e7b9b79a6c3e\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\d52821e495ea35aa24b936c02b57c23f\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\0ff78af0e96915add9b43bc195d32932\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\508dec6f5dd87faf0527acb5a10430be\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\30c3a77ca8cf64c4d8ace0c37f86ab4c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\d6f40817284b906e078a5ff1756033ab\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\9fc4b58322f0e2a95f865d583a4a0d01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6d9139ed26cdf5f5d16ae33c21ddda82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\6bda6bbc7ecabccef6e76b8c8a1744f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\2056374567f9de2a6cd44f583faded88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4a1dc7c1f9c3f6d0175c6edbc57cce0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\9cec794a5e167e45f5b13dc46a453f2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\5739cdfe3e2949762c549cc5a6600a74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\ccbd7d716a41643904a9e427e87b0e21\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\748a3e649a8ae9aab144639abed4713c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2faec3e127bb698179dd24a61dfe0464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d3aca6467add6cd67c9fbb7d4d28dd10\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\ab4fad590165457035c1d647a9117ff5\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\58d5005b07a06a45929af181bb5b9af9\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\07f803f964bbcacd0aad33bbfdf4d6e6\AndroidManifest.xml:22:1-33:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\403e56cd63dbe8a83e338374c7bc4ca5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e785db7aa200ce8883bcaaaaca6ec506\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71ff38e78c9a6f6500a78f81ee7308a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a6f2de6313097768e6843fd08476eeae\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:1-371:12
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:1-371:12
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:1-371:12
+	package
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5534f2a0e99450d855a5fbd22d6d092c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5534f2a0e99450d855a5fbd22d6d092c\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\793a8c5b05f7c2db7080f06588dfae8c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\793a8c5b05f7c2db7080f06588dfae8c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d0ba8d27e8ba0c038e1ebb3d2f012454\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d0ba8d27e8ba0c038e1ebb3d2f012454\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\f90f29eec441fa1716db14d38bd575aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\f90f29eec441fa1716db14d38bd575aa\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\android-observablescrollview-1.6.0.aar\578a2fbd05c9201402c7de9c5af0ae0f\AndroidManifest.xml:21:5-43
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\android-observablescrollview-1.6.0.aar\578a2fbd05c9201402c7de9c5af0ae0f\AndroidManifest.xml:21:5-43
+MERGED from [:library] E:\Loreal_GT_MT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] E:\Loreal_GT_MT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.3] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\core-0.9.4.3.aar\b11a4c915d8040e006c6d6bb7c23ca1f\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.3] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\core-0.9.4.3.aar\b11a4c915d8040e006c6d6bb7c23ca1f\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\536d75a4f56c39053bb879d83e99f6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\536d75a4f56c39053bb879d83e99f6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\5077262ee5505762c50c6bb51ab8f59f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\5077262ee5505762c50c6bb51ab8f59f\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f2092ee8d318074834529d3f3732a970\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\f2092ee8d318074834529d3f3732a970\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\93caca06025151027a97c0d189660e6c\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\93caca06025151027a97c0d189660e6c\AndroidManifest.xml:20:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:7:5-43
+MERGED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad:easyvideoplayer:0.3.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\easyvideoplayer-0.3.0.aar\6c3809fe6bf28ecd6a58baf1cf980f47\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad:easyvideoplayer:0.3.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\easyvideoplayer-0.3.0.aar\6c3809fe6bf28ecd6a58baf1cf980f47\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\277b42d9cc29574426083d20671fea5f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\277b42d9cc29574426083d20671fea5f\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dadb5c89bbb7a7e0df90461a80c9aea7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dadb5c89bbb7a7e0df90461a80c9aea7\AndroidManifest.xml:20:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\1e84b2f159121b69f0093e2936d7e4f0\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\library-1.4.0.aar\1e84b2f159121b69f0093e2936d7e4f0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ea6d0eaa3375177d32d290f3461d3ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\ea6d0eaa3375177d32d290f3461d3ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\153ea94ea73fd6124b8785d3cf6fa1af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\153ea94ea73fd6124b8785d3cf6fa1af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\892e55ffe1d0bfb2ab679b264065f158\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\892e55ffe1d0bfb2ab679b264065f158\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\4114ff4415f3239842cced909b148f2f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\4114ff4415f3239842cced909b148f2f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\8035de123294c047f89141ff5f81592c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\8035de123294c047f89141ff5f81592c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\c5154435a2c98ca5d72aa57839a796a3\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\c5154435a2c98ca5d72aa57839a796a3\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\151d0f5ea81a75ce5389ee71d62c60c5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\151d0f5ea81a75ce5389ee71d62c60c5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\f9ab3864e6637400e272895a09304515\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\f9ab3864e6637400e272895a09304515\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\8ebd50f231710277dcb85a93155b774f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\8ebd50f231710277dcb85a93155b774f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\69d89bb03a9ccdfd16a6c1e6ecdf3005\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\69d89bb03a9ccdfd16a6c1e6ecdf3005\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\14e29de5d49effde80a1e034f8ee1043\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\14e29de5d49effde80a1e034f8ee1043\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\ff5dd31574d342b886a47e78b8d118c7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\ff5dd31574d342b886a47e78b8d118c7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\7b071b112b7433caa55a4e5e3056c26b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\7b071b112b7433caa55a4e5e3056c26b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\e95cbd00ec65d318ef446349d82f07c0\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\e95cbd00ec65d318ef446349d82f07c0\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\6927ff901c5729ba15a38605aa086bd1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\6927ff901c5729ba15a38605aa086bd1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\6b149d1e9724f1ef9d7ef93f4505cf93\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\6b149d1e9724f1ef9d7ef93f4505cf93\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\a49d649e0141f29381860aaf88d57527\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\a49d649e0141f29381860aaf88d57527\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\2be6ebd52257d69a16d1345140ae3eef\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\2be6ebd52257d69a16d1345140ae3eef\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\6d00a451772aca47e82be9ceb5f7206c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\6d00a451772aca47e82be9ceb5f7206c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\f5dfd45ae0281e38f74ebde304f6c38b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\f5dfd45ae0281e38f74ebde304f6c38b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\78b571a07a8616770ad5a2084af4ee5d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\78b571a07a8616770ad5a2084af4ee5d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\dd94b56a659ce9ea9e25ed71aca1df5d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\dd94b56a659ce9ea9e25ed71aca1df5d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\706855afc8a50490268a1dc015228306\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\706855afc8a50490268a1dc015228306\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\24704d211ffec709639b90d7d96992cf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\24704d211ffec709639b90d7d96992cf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\226c9862c88baa894fcda3fda6328f00\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\226c9862c88baa894fcda3fda6328f00\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\35b6bd7da4eba0625a4b0d04a614fac1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\35b6bd7da4eba0625a4b0d04a614fac1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\c177eb2223747e867b0db38eb1fb4f05\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\c177eb2223747e867b0db38eb1fb4f05\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\a7757cab581ade63d792b77952cadc26\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\a7757cab581ade63d792b77952cadc26\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\07a4d889f653763259b1e8403045e2ef\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\07a4d889f653763259b1e8403045e2ef\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\be9719a5a84f22dd52b7e7b9b79a6c3e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\be9719a5a84f22dd52b7e7b9b79a6c3e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\d52821e495ea35aa24b936c02b57c23f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\d52821e495ea35aa24b936c02b57c23f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\0ff78af0e96915add9b43bc195d32932\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\0ff78af0e96915add9b43bc195d32932\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\508dec6f5dd87faf0527acb5a10430be\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\508dec6f5dd87faf0527acb5a10430be\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\30c3a77ca8cf64c4d8ace0c37f86ab4c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\30c3a77ca8cf64c4d8ace0c37f86ab4c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\d6f40817284b906e078a5ff1756033ab\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\d6f40817284b906e078a5ff1756033ab\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\9fc4b58322f0e2a95f865d583a4a0d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\9fc4b58322f0e2a95f865d583a4a0d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6d9139ed26cdf5f5d16ae33c21ddda82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6d9139ed26cdf5f5d16ae33c21ddda82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\6bda6bbc7ecabccef6e76b8c8a1744f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\6bda6bbc7ecabccef6e76b8c8a1744f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\2056374567f9de2a6cd44f583faded88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\2056374567f9de2a6cd44f583faded88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4a1dc7c1f9c3f6d0175c6edbc57cce0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\4a1dc7c1f9c3f6d0175c6edbc57cce0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\9cec794a5e167e45f5b13dc46a453f2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\9cec794a5e167e45f5b13dc46a453f2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\5739cdfe3e2949762c549cc5a6600a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\5739cdfe3e2949762c549cc5a6600a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\ccbd7d716a41643904a9e427e87b0e21\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\ccbd7d716a41643904a9e427e87b0e21\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\748a3e649a8ae9aab144639abed4713c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\748a3e649a8ae9aab144639abed4713c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2faec3e127bb698179dd24a61dfe0464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2faec3e127bb698179dd24a61dfe0464\AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d3aca6467add6cd67c9fbb7d4d28dd10\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d3aca6467add6cd67c9fbb7d4d28dd10\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\ab4fad590165457035c1d647a9117ff5\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\ab4fad590165457035c1d647a9117ff5\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\58d5005b07a06a45929af181bb5b9af9\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\58d5005b07a06a45929af181bb5b9af9\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\07f803f964bbcacd0aad33bbfdf4d6e6\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\07f803f964bbcacd0aad33bbfdf4d6e6\AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\403e56cd63dbe8a83e338374c7bc4ca5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\403e56cd63dbe8a83e338374c7bc4ca5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e785db7aa200ce8883bcaaaaca6ec506\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e785db7aa200ce8883bcaaaaca6ec506\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71ff38e78c9a6f6500a78f81ee7308a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71ff38e78c9a6f6500a78f81ee7308a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a6f2de6313097768e6843fd08476eeae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a6f2de6313097768e6843fd08476eeae\AndroidManifest.xml:20:5-44
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.4.3] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\core-0.9.4.3.aar\b11a4c915d8040e006c6d6bb7c23ca1f\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+		INJECTED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\dd94b56a659ce9ea9e25ed71aca1df5d\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\dd94b56a659ce9ea9e25ed71aca1df5d\AndroidManifest.xml:4:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\93caca06025151027a97c0d189660e6c\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\93caca06025151027a97c0d189660e6c\AndroidManifest.xml:18:5-66
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:20:5-66
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d3aca6467add6cd67c9fbb7d4d28dd10\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d3aca6467add6cd67c9fbb7d4d28dd10\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\ab4fad590165457035c1d647a9117ff5\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\ab4fad590165457035c1d647a9117ff5\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\58d5005b07a06a45929af181bb5b9af9\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\58d5005b07a06a45929af181bb5b9af9\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\07f803f964bbcacd0aad33bbfdf4d6e6\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\07f803f964bbcacd0aad33bbfdf4d6e6\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:17:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:20:22-66
+uses-permission#com.htc.tms.permission.MAPS_RECEIVE
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.CAMERA
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:24:5-65
+MERGED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:24:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:26:5-60
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:26:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:27:19-67
+application
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:29:5-369:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5534f2a0e99450d855a5fbd22d6d092c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\5534f2a0e99450d855a5fbd22d6d092c\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d0ba8d27e8ba0c038e1ebb3d2f012454\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d0ba8d27e8ba0c038e1ebb3d2f012454\AndroidManifest.xml:9:5-20
+MERGED from [:library] E:\Loreal_GT_MT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] E:\Loreal_GT_MT\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.3] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\core-0.9.4.3.aar\b11a4c915d8040e006c6d6bb7c23ca1f\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.3] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\core-0.9.4.3.aar\b11a4c915d8040e006c6d6bb7c23ca1f\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\5077262ee5505762c50c6bb51ab8f59f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\5077262ee5505762c50c6bb51ab8f59f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\93caca06025151027a97c0d189660e6c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\93caca06025151027a97c0d189660e6c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:11:5-17:19
+MERGED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-16:19
+MERGED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-16:19
+MERGED from [com.afollestad:easyvideoplayer:0.3.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\easyvideoplayer-0.3.0.aar\6c3809fe6bf28ecd6a58baf1cf980f47\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad:easyvideoplayer:0.3.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\easyvideoplayer-0.3.0.aar\6c3809fe6bf28ecd6a58baf1cf980f47\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\277b42d9cc29574426083d20671fea5f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\277b42d9cc29574426083d20671fea5f\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dadb5c89bbb7a7e0df90461a80c9aea7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dadb5c89bbb7a7e0df90461a80c9aea7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\65cee50365b86f5ea4d50d0f1028f112\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\8035de123294c047f89141ff5f81592c\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\8035de123294c047f89141ff5f81592c\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\53755666613033bdbec820216c0e1ee3\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\f9ab3864e6637400e272895a09304515\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\f9ab3864e6637400e272895a09304515\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\8ebd50f231710277dcb85a93155b774f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\8ebd50f231710277dcb85a93155b774f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\69d89bb03a9ccdfd16a6c1e6ecdf3005\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\69d89bb03a9ccdfd16a6c1e6ecdf3005\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\14e29de5d49effde80a1e034f8ee1043\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\14e29de5d49effde80a1e034f8ee1043\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\ff5dd31574d342b886a47e78b8d118c7\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\ff5dd31574d342b886a47e78b8d118c7\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\7b071b112b7433caa55a4e5e3056c26b\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\7b071b112b7433caa55a4e5e3056c26b\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\e95cbd00ec65d318ef446349d82f07c0\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\e95cbd00ec65d318ef446349d82f07c0\AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\6927ff901c5729ba15a38605aa086bd1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\6927ff901c5729ba15a38605aa086bd1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\6b149d1e9724f1ef9d7ef93f4505cf93\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\6b149d1e9724f1ef9d7ef93f4505cf93\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\2be6ebd52257d69a16d1345140ae3eef\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\2be6ebd52257d69a16d1345140ae3eef\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\f5dfd45ae0281e38f74ebde304f6c38b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\f5dfd45ae0281e38f74ebde304f6c38b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\78b571a07a8616770ad5a2084af4ee5d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\78b571a07a8616770ad5a2084af4ee5d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\dd94b56a659ce9ea9e25ed71aca1df5d\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\dd94b56a659ce9ea9e25ed71aca1df5d\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\706855afc8a50490268a1dc015228306\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\706855afc8a50490268a1dc015228306\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\24704d211ffec709639b90d7d96992cf\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\24704d211ffec709639b90d7d96992cf\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\226c9862c88baa894fcda3fda6328f00\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\226c9862c88baa894fcda3fda6328f00\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\35b6bd7da4eba0625a4b0d04a614fac1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\35b6bd7da4eba0625a4b0d04a614fac1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\c177eb2223747e867b0db38eb1fb4f05\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\c177eb2223747e867b0db38eb1fb4f05\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\a7757cab581ade63d792b77952cadc26\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\a7757cab581ade63d792b77952cadc26\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\508dec6f5dd87faf0527acb5a10430be\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\508dec6f5dd87faf0527acb5a10430be\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\30c3a77ca8cf64c4d8ace0c37f86ab4c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\30c3a77ca8cf64c4d8ace0c37f86ab4c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\d6f40817284b906e078a5ff1756033ab\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\d6f40817284b906e078a5ff1756033ab\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\ccbd7d716a41643904a9e427e87b0e21\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\ccbd7d716a41643904a9e427e87b0e21\AndroidManifest.xml:22:5-23:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d3aca6467add6cd67c9fbb7d4d28dd10\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\d3aca6467add6cd67c9fbb7d4d28dd10\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\ab4fad590165457035c1d647a9117ff5\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\ab4fad590165457035c1d647a9117ff5\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\58d5005b07a06a45929af181bb5b9af9\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\58d5005b07a06a45929af181bb5b9af9\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\07f803f964bbcacd0aad33bbfdf4d6e6\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\07f803f964bbcacd0aad33bbfdf4d6e6\AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from [:annca] E:\Loreal_GT_MT\annca\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:32:9-41
+	android:largeHeap
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:33:9-33
+	android:icon
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:31:9-51
+	android:allowBackup
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:34:9-52
+activity#com.cpm.Loreal_GT.SplashScreenActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:35:9-44:20
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:36:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:42:27-74
+activity#com.cpm.autoupdate.AutoupdateActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:46:13-65
+activity#com.cpm.web.ShowUpdateActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:49:13-58
+activity#com.cpm.Loreal_GT.MainActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:52:13-58
+activity#com.cpm.download.CompleteDownloadActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:55:13-69
+activity#com.cpm.dailyentry.DailyEntryScreen
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:58:13-63
+activity#com.cpm.upload.UploadOptionActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:61:13-63
+activity#com.cpm.upload.UploadDataActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:64:13-61
+activity#com.cpm.upload.UploadDataActivityWithoutWait
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:67:13-72
+activity#com.cpm.upload.CheckoutNUpload
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:70:13-58
+activity#com.cpm.upload.UploadAllImageActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:72:9-74:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:73:13-65
+activity#com.cpm.dailyentry.StoreEntry
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:75:9-78:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:77:13-40
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:76:13-57
+activity#com.cpm.dailyentry.StoreType
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:80:13-56
+activity#com.cpm.dailyentry.DeepFreezerActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:82:9-85:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:84:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:85:13-52
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:83:13-66
+activity#com.cpm.dailyentry.MccainType
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:86:9-88:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:88:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:87:13-57
+activity#com.cpm.upload.BulkImageUploadActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:89:9-91:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:90:13-66
+activity#com.cpm.dailyentry.StockAvailability
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:92:9-97:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:95:13-47
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:97:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:94:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:93:13-64
+activity#com.cpm.dailyentry.ClosingStock
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:98:9-103:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:101:13-62
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:103:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:100:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:99:13-59
+activity#com.cpm.dailyentry.MidDayStock
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:104:9-109:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:107:13-60
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:109:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:106:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:105:13-58
+activity#com.cpm.dailyentry.WindowsActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:110:9-115:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:113:13-42
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:115:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:112:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:111:13-62
+activity#com.cpm.dailyentry.AssetActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:116:9-121:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:119:13-34
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:121:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:118:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:117:13-60
+activity#com.cpm.dailyentry.NonWorkingReason
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:122:9-125:52
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:124:13-40
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:123:13-63
+activity#com.cpm.dailyentry.FoodStore
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:126:9-130:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:129:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:130:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:128:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:127:13-56
+activity#com.cpm.dailyentry.FacingCompetitor
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:131:9-136:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:134:13-46
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:136:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:133:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:132:13-63
+activity#com.cpm.dailyentry.UploadSelect
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:137:9-141:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:140:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:141:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:139:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:138:13-59
+activity#com.cpm.dailyentry.CheckOutStoreActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:142:9-146:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:145:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:146:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:144:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:143:13-68
+activity#com.cpm.dailyentry.CallsActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:147:9-151:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:150:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:151:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:149:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:148:13-60
+activity#com.cpm.dailyentry.Performance
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:152:9-156:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:155:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:156:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:154:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:153:13-58
+activity#com.cpm.Loreal_GT.MainMenuActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:157:9-161:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:159:13-38
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:161:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:158:13-62
+activity#com.cpm.Loreal_GT.LoginActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:162:9-166:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:165:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:164:13-45
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:166:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:163:13-59
+activity#com.cpm.dailyentry.CompetionMenuActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:167:9-171:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:170:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:169:13-66
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:171:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:168:13-68
+activity#com.cpm.dailyentry.COMPETITORActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:172:9-177:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:176:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:175:13-62
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:174:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:177:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:173:13-65
+activity#com.cpm.dailyentry.PlanogramActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:178:9-182:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:181:13-50
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:180:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:182:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:179:13-64
+activity#com.cpm.dailyentry.CompetitionAditionalPOIActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:183:9-189:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:186:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:189:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:185:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:188:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:184:13-78
+activity#com.cpm.dailyentry.CompetitionPromotionsActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:190:9-196:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:194:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:193:13-38
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:196:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:192:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:195:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:191:13-76
+activity#com.cpm.dailyentry.StoreSignAgeActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:197:9-202:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:201:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:200:13-42
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:202:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:199:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:198:13-67
+activity#com.cpm.dailyentry.GeoFence_Activity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:203:9-206:59
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:205:13-62
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:206:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:204:13-64
+activity#com.cpm.dailyentry.StoreimageActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:207:9-213:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:211:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:210:13-46
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:213:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:209:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:212:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:208:13-65
+activity#com.cpm.dailyentry.ISSUE_TYPEActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:214:9-220:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:218:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:217:13-46
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:220:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:216:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:219:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:215:13-65
+activity#com.cpm.dailyentry.POSMActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:221:9-227:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:225:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:224:13-34
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:227:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:223:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:226:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:222:13-59
+activity#com.cpm.geotag.LocationActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:228:9-234:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:232:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:231:13-43
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:234:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:230:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:233:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:229:13-59
+activity#com.cpm.dailyentry.GeoTagActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:235:9-241:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:239:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:238:13-38
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:241:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:237:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:240:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:236:13-61
+activity#com.cpm.geotag.UploadGeotaggingActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:242:9-248:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:246:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:245:13-45
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:248:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:244:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:247:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:243:13-67
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:250:9-252:71
+	android:value
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:252:13-68
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:251:13-62
+meta-data#com.google.android.gms.version
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:253:9-255:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\d6f40817284b906e078a5ff1756033ab\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\d6f40817284b906e078a5ff1756033ab\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:255:13-66
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:254:13-58
+activity#com.cpm.dailyentry.SecondaryWindowActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:257:9-262:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:261:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:260:13-68
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:259:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:262:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:258:13-70
+activity#com.cpm.dailyentry.ChecklistActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:263:9-268:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:267:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:266:13-61
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:265:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:268:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:264:13-64
+activity#com.cpm.dailyentry.SKUEntryActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:269:9-273:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:272:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:271:13-60
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:273:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:270:13-63
+activity#com.cpm.dailyentry.StockAvailability2Activity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:274:9-279:55
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:277:13-71
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:279:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:276:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:278:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:275:13-73
+activity#com.cpm.dailyentry.WindowPlanogramActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:280:9-284:59
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:283:13-50
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:282:13-68
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:284:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:281:13-70
+activity#com.cpm.dailyentry.WindowListActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:285:9-288:59
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:287:13-63
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:288:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:286:13-65
+activity#com.cpm.dailyentry.MerPerformanceActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:289:9-292:59
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:291:13-67
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:292:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:290:13-69
+activity#com.cpm.dailyentry.StoreEntryForChannel2Activity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:293:9-297:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:296:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:297:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:295:13-74
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:294:13-76
+activity#com.cpm.dailyentry.ShareOfShelfActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:298:9-304:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:302:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:301:13-66
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:304:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:300:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:303:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:299:13-67
+activity#com.cpm.dailyentry.StockAvailabilityForChannel2Activity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:305:9-311:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:309:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:308:13-83
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:311:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:307:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:310:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:306:13-83
+activity#com.cpm.dailyentry.PaidVisibilityActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:312:9-318:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:316:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:315:13-67
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:318:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:314:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:317:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:313:13-69
+activity#com.cpm.dailyentry.FreeVisibilityActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:319:9-325:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:323:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:322:13-67
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:325:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:321:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:324:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:320:13-69
+activity#com.cpm.dailyentry.PromotionActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:326:9-332:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:330:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:329:13-61
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:332:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:328:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:331:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:327:13-64
+activity#com.cpm.dailyentry.PreviousStoreDataActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:333:9-336:59
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:335:13-71
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:336:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:334:13-72
+activity#com.cpm.upload.UploadPreviousStoreDataActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:337:9-83
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:337:19-80
+activity#com.cpm.Loreal_GT.FutureJCPActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:338:9-341:59
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:340:13-62
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:341:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:339:13-63
+activity#com.cpm.dailyentry.POSM2Activity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:342:9-348:55
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:346:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:345:13-57
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:348:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:344:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:347:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:343:13-60
+activity#com.cpm.Loreal_GT.EmpSalaryActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:349:9-72
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:349:19-69
+activity#com.afollestad.materialcamera.CaptureActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:350:9-352:53
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:352:13-50
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:351:13-73
+activity#com.cpm.dailyentry.StoreProfileActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:353:9-359:64
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:357:13-49
+	android:label
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:356:13-65
+	android:windowSoftInputMode
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:359:13-52
+	android:configChanges
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:355:13-74
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:358:13-56
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:354:13-67
+activity#io.github.memfis19.annca.internal.ui.camera.Camera1Activity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:361:9-364:54
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:363:13-49
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:364:13-51
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:362:13-87
+activity#io.github.memfis19.annca.internal.ui.preview.PreviewActivity
+ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:365:9-368:54
+	android:screenOrientation
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:367:13-49
+	android:theme
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:368:13-51
+	android:name
+		ADDED from E:\Loreal_GT_MT\Loreal_Gt\src\main\AndroidManifest.xml:366:13-88
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\2ddfe178dba35aed1b043856bdf609a1\AndroidManifest.xml:13:13-75
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\2d18d0cb89a742c2162622cd8f7be49b\AndroidManifest.xml:7:18-90
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.cpm.LorealGt
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\395ec857052f92406def719960818ee8\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\18858a4f55c18d3d631f77ebf82afc96\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\ec67122d91a27ccd7ddfc3f606cdd9b5\AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\849596ad6abc663a5a8b553d7fa39dcf\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\feab3a238843ba0f46b5b4306f4b25aa\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\30653614131a69a76173fd05c3348c2c\AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\3c778caa4dfaf776393d69fd75c9f3df\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\ee8ce59a18b6e8b5c013daa7df223574\AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\d84883c4212f0209d14db6602b591dfb\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\1bda33cb467d3ae163162c4a5997b9d0\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\74ee5ba4a11bf49da48914450f99cda8\AndroidManifest.xml:25:25-75
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:24:17-71
+permission#com.cpm.LorealGt.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:26:22-76
+uses-permission#com.cpm.LorealGt.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.cpm.LorealGt
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:33:27-58
+category#com.cpm.LorealGt
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\69f2dd8ec1db8ca6ea65b6279919854d\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\20ffd58b18299b563090cfc8365b8d32\AndroidManifest.xml:6:79-143

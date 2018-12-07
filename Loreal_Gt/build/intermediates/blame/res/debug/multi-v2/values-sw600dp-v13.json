@@ -1,0 +1,96 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Loreal_GT_MT\\Loreal_Gt\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Loreal_GT_MT\\annca\\build\\intermediates\\packaged_res\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,93,154",
+                        "endColumns": "37,60,55",
+                        "endOffsets": "88,149,205"
+                    },
+                    "to": {
+                        "startLines": "2,24,25",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,1503,1564",
+                        "endColumns": "37,60,55",
+                        "endOffsets": "88,1559,1615"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\deepakp\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\f90f29eec441fa1716db14d38bd575aa\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,23,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "691,751,821,892,964,1022,1080,1186,1440,1620",
+                        "endLines": "12,13,14,15,16,17,18,19,23,29",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "746,816,887,959,1017,1075,1181,1245,1498,1797"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\deepakp\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\dadb5c89bbb7a7e0df90461a80c9aea7\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "21,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "1302,1371",
+                        "endColumns": "68,68",
+                        "endOffsets": "1366,1435"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\deepakp\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.4.3.aar\\b11a4c915d8040e006c6d6bb7c23ca1f\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,51",
+                        "endOffsets": "92,144"
+                    },
+                    "to": {
+                        "startLines": "3,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "93,1250",
+                        "endColumns": "41,51",
+                        "endOffsets": "130,1297"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\deepakp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\ea6d0eaa3375177d32d290f3461d3ad0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "135,204,273,343,417,493,552,623",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "199,268,338,412,488,547,618,686"
+                    }
+                }
+            ]
+        }
+    ]
+}

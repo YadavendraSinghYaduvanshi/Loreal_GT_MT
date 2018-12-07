@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\0853020666dc352d2210a4d8eee14bb4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.1.1.aar\9f71f2bf7cb865cb7051a4adba4de46f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\libs\acra-4.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta1\53b5be42d6cf719ac1431b9aa9a4d5ab78856148\retrofit-2.0.0-beta1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53b5be42d6cf719ac1431b9aa9a4d5ab78856148">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\b045ccebc77702ee2deaf979a7501777\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.1.1.aar\9b461d298eb597e52f6dec1e34475ff0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9ac08973805c667b80b908688b2de449\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\design-23.1.1.aar\ab67a46907cb1070a27a45e41364c12f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\b045ccebc77702ee2deaf979a7501777\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\android-observablescrollview-1.6.0.aar\6d0e666b843210ebec01dfbbca4a42ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\47a721635e0dbba124c56cfb4f5cdb19\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepakp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta1\3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a\converter-gson-2.0.0-beta1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a">
+        <dex dex="E:\Deepak&apos;s previous desktop data\deepak\Loreal_GT_MT06.04.17\Loreal_GT_MT\Loreal_Gt\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+
+</items>

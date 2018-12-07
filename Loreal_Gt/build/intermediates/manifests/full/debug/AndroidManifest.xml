@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cpm.LorealGt"
+    android:versionCode="37"
+    android:versionName="4.6" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="com.htc.tms.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <permission
+        android:name="com.cpm.LorealGt.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.cpm.LorealGt.permission.C2D_MESSAGE" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/parinaam_logo_ico"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity
+            android:name="com.cpm.Loreal_GT.SplashScreenActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cpm.autoupdate.AutoupdateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.web.ShowUpdateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.Loreal_GT.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.download.CompleteDownloadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.DailyEntryScreen"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.UploadOptionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.UploadDataActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.UploadDataActivityWithoutWait"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.CheckoutNUpload"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.UploadAllImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreEntry"
+            android:label="Store Entry"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreType"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.DeepFreezerActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.MccainType"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.upload.BulkImageUploadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.StockAvailability"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Stock Availability"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.ClosingStock"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label=" Stock Availability/Closing Stock"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.MidDayStock"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Stock Availability/Midday Stock"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.WindowsActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Windows Entry"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.AssetActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Asset"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.NonWorkingReason"
+            android:label="Non Working"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cpm.dailyentry.FoodStore"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.FacingCompetitor"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Facing Competitor"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.UploadSelect"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.CheckOutStoreActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.CallsActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.Performance"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.Loreal_GT.MainMenuActivity"
+            android:label="Main Menu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.Loreal_GT.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.CompetionMenuActivity"
+            android:label="@string/title_activity_competion_menu"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.COMPETITORActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_Competitor"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.PlanogramActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.CompetitionAditionalPOIActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Additional POI"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.CompetitionPromotionsActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Promotion"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreSignAgeActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Store Signage"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.GeoFence_Activity"
+            android:label="@string/title_activity_geo_fence_"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreimageActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Store Front Image"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.ISSUE_TYPEActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Store Front Image"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.POSMActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label=" POSM"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.geotag.LocationActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Store Location"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.GeoTagActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Location "
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.geotag.UploadGeotaggingActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="Uploading Image "
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyApGNA31hSPpkb2BPX5z5g7uEuKgIsOqe8" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.cpm.dailyentry.SecondaryWindowActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_secondary_window"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.ChecklistActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_checklist"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.SKUEntryActivity"
+            android:label="@string/title_activity_skuentry"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.StockAvailability2Activity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_stock_availability2"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.WindowPlanogramActivity"
+            android:label="@string/title_activity_window_planogram"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.WindowListActivity"
+            android:label="@string/title_activity_window_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.MerPerformanceActivity"
+            android:label="@string/title_activity_mer_performance"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreEntryForChannel2Activity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.ShareOfShelfActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_share_of_shelf"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.StockAvailabilityForChannel2Activity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_stock_availability_for_channel2"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.PaidVisibilityActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_paid_visibility"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.FreeVisibilityActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_free_visibility"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.PromotionActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_promotion"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.cpm.dailyentry.PreviousStoreDataActivity"
+            android:label="@string/title_activity_previous_store_data"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.cpm.upload.UploadPreviousStoreDataActivity" />
+        <activity
+            android:name="com.cpm.Loreal_GT.FutureJCPActivity"
+            android:label="@string/title_activity_future_jcp"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.cpm.dailyentry.POSM2Activity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_posm2"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name="com.cpm.Loreal_GT.EmpSalaryActivity" />
+        <activity
+            android:name="com.afollestad.materialcamera.CaptureActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.cpm.dailyentry.StoreProfileActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/title_activity_store_profile"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="io.github.memfis19.annca.internal.ui.camera.Camera1Activity"
+            android:screenOrientation="portrait"
+            android:theme="@style/ThemeFullscreen" />
+        <activity
+            android:name="io.github.memfis19.annca.internal.ui.preview.PreviewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/ThemeFullscreen" />
+
+        <provider
+            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+            android:authorities="com.cpm.LorealGt.crashlyticsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+
+        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+        <service
+            android:name="com.google.android.gms.tagmanager.TagManagerService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+            android:exported="true"
+            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+            <intent-filter>
+                <data android:scheme="tagmanager.c.com.cpm.LorealGt" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.cpm.LorealGt" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.cpm.LorealGt.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>

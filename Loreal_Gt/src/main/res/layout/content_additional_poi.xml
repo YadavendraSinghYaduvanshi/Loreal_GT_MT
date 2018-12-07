@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_store_detail"
+    android:background="@color/grey_background"
+    >
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7.5"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        card_view:cardBackgroundColor="@color/white"
+        card_view:cardCornerRadius="5dp" >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.2"
+                android:orientation="horizontal"
+                android:weightSum="3"
+                android:layout_marginTop="10dp">
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.2"
+                   android:gravity="center"
+
+                    android:text="Signage Exists"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp" />
+
+                <Spinner
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:id="@+id/spinner3"
+                    android:layout_weight="2" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/layoutworking"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.2"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                android:weightSum="3"
+                android:visibility="visible">
+
+
+
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.2"
+                    android:gravity="center"
+
+                    android:text="Working Condition"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp" />
+
+
+
+                <Spinner
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:id="@+id/spinner4"
+                    android:layout_weight="2" />
+
+
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/layoutcarema"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.2"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                android:weightSum="3"
+                android:visibility="visible">
+
+
+
+
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+
+                    android:text="Image"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+
+                    android:layout_weight="1"
+                   />
+
+
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:id="@+id/imageView2"
+                    android:layout_weight=".8"
+                    android:background="@drawable/camera"/>
+
+
+            </LinearLayout>
+
+
+
+
+
+
+           <!-- <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                >
+
+                <EditText
+                    android:id="@+id/Address"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorPrimary"
+
+                    android:ems="10" >
+                </EditText>
+            </RelativeLayout>-->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+               >
+
+                <Button
+                    android:id="@+id/btn_poi_save"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Save"
+                    android:textColor="@color/white"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/btnsavebg"
+                    android:layout_weight="1"/>
+
+
+            </RelativeLayout>
+
+
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+    <com.cpm.keyboard.CustomKeyboardView
+        android:id="@+id/keyboard_view"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.5"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone" >
+    </com.cpm.keyboard.CustomKeyboardView>
+
+
+
+</LinearLayout>

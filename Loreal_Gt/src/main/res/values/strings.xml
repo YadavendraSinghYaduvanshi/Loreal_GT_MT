@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loreal GT Merchandiser</string>
+
+
+    <string name="remark">Remarks</string>
+    <string name="image">Image</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="actual_listed">Actual listed</string>
+    <string name="Opening_Stock_Cold_Room">Cold room - Opening stk</string>
+    <string name="Opening_Stock_Mccain_Df">Mccain DF - Opening stk</string>
+    <string name="Total_Facing_McCain_DF">Mccain DF - Total Facing</string>
+    <string name="Opening_Stock_Store_DF">Store DF - Opening stk</string>
+    <string name="Total_Facing_Store_DF">Store DF - Total Facing</string>
+    <string name="Material_wellness_thawed_quantity">Thawed Qty</string>
+    <string name="As_Per_Mccain">As Per Mccain</string>
+
+    <string name="total_calls">Total Calls</string>
+    <string name="productive_calls">Productive Calls</string>
+
+    <string name="calls">Calls Panel</string>
+
+    <string name="performance">Performance</string>
+
+    <string name="Coverage_mtd">Coverage(MTD) &amp; Execution(MTD) :</string>
+    <string name="total_stock">Total Stock</string>
+    <string name="facing">Facing</string>
+    <string name="Merchandizer_Name">Employee Name :</string>
+    <string name="stock_under_days">Stock(1-6 month)</string>
+    <string name="stock_date">Latest Expiry Date</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="stockspinner_array">
+        <item>-Select-</item>
+        <item> Yes </item>
+        <item> No </item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="help_str">If You Have Any Query \n You Can Call To Help Desk</string>
+    <string name="title_activity_competion_menu">Competition</string>
+    <string name="title_activity_Competitor">Competition</string>
+    <string name="title_activity_geo_fence_">GeoFence_Activity</string>
+    <string name="title_activity_secondary_window">Secondary Window</string>
+    <string name="title_activity_checklist">Window</string>
+    <string name="title_activity_skuentry">SKU Entry</string>
+    <string name="title_activity_stock_availability2">StockAvailability2Activity</string>
+    <string name="title_activity_window_planogram">WindowPlanogramActivity</string>
+    <string name="title_activity_window_list">WindowListActivity</string>
+    <string name="title_activity_mer_performance">MerPerformanceActivity</string>
+    <string name="title_activity_share_of_shelf">ShareOfShelfActivity</string>
+    <string name="title_activity_stock_availability_for_channel2">
+        StockAvailabilityForChannel2Activity
+    </string>
+    <string name="title_activity_paid_visibility">PaidVisibilityActivity</string>
+    <string name="title_activity_free_visibility">FreeVisibilityActivity</string>
+    <string name="title_activity_promotion">Promotion</string>
+    <string name="title_activity_previous_store_data">Pending Stores</string>
+    <string name="title_activity_future_jcp">FutureJCPActivity</string>
+    <string name="title_activity_posm2">POSM</string>
+    <string name="ok">OK</string>
+    <string name="data_uploaded_successfully">Database Uploaded Successfully</string>
+    <string name="errordatabase_not_uploaded">Error in Database Uploading</string>
+    <string name="database_not_uploaded">Database Not Uploaded</string>
+    <string name="title_activity_store_profile">Store Profile</string>
+    <string name="digit_alpha_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 .</string>
+    <string name="digit_number">1234567890</string>
+    <string name="digit_forgst">ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890</string>
+
+
+</resources>

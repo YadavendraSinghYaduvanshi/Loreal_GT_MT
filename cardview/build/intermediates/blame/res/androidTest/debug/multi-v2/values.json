@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Deepak's previous desktop data\\deepak\\Loreal_GT_MT06.04.17\\Loreal_GT_MT\\cardview\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Deepak's previous desktop data\\deepak\\Loreal_GT_MT06.04.17\\Loreal_GT_MT\\cardview\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,926,985,1042,1096,1562,1688",
+                        "endLines": "2,3,4,5,7,8,9,17,20,23",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12",
+                        "endOffsets": "111,173,235,299,980,1037,1091,1557,1683,1811"
+                    }
+                }
+            ]
+        }
+    ]
+}

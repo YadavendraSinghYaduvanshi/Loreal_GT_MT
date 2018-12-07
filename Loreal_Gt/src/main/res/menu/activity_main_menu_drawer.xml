@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_daily"
+            android:icon="@drawable/entry_grey"
+            android:title="Daily Entry" />
+        <item
+            android:id="@+id/nav_download"
+            android:icon="@drawable/download_grey"
+            android:title="Download Data" />
+        <item
+            android:id="@+id/nav_performance"
+            android:icon="@drawable/ic_performance"
+            android:title="Performance" />
+        <item
+            android:id="@+id/nav_winPlanogram"
+            android:icon="@drawable/ic_planogram"
+            android:title="Window Planogram" />
+
+        <item
+            android:id="@+id/nav_upload"
+            android:icon="@drawable/upload_grey"
+            android:title="Upload Data" />
+
+        <item
+            android:id="@+id/prev_data"
+            android:icon="@drawable/ic_previousday"
+            android:title="Previous Data"
+            android:visible="true" />
+        <item
+            android:id="@+id/future_data"
+            android:icon="@drawable/ic_futurejcp"
+            android:title="Future JCP Data"
+            android:visible="true" />
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/exit_grey"
+            android:title="Exit" />
+
+    </group>
+
+    <!--<group android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_upload"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Upload" >
+            <menu>
+                <item
+                    android:id="@+id/nav_upload_data"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Data"
+                    />
+                <item
+                    android:id="@+id/nav_uplaod_image"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="Image"
+                    />
+            </menu>
+        </item>
+
+        </group>-->
+
+
+    <item android:title="Extras">
+        <menu>
+            <!-- <item
+                 android:id="@+id/nav_share"
+                 android:icon="@drawable/ic_menu_share"
+                 android:title="Share" />-->
+            <item
+                android:id="@+id/emp_salary"
+                android:icon="@drawable/ic_performance"
+                android:title="Employee Salary" />
+
+            <item
+                android:id="@+id/nav_export_database"
+                android:icon="@drawable/services_grey"
+                android:title="Export Database" />
+            <item
+                android:id="@+id/nav_bulk_upload"
+                android:icon="@drawable/upload_grey"
+                android:title="Bulk Upload"
+                android:visible="false" />
+
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Help" />
+        </menu>
+    </item>
+
+</menu>

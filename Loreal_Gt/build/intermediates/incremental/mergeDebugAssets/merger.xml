@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":annca"><source path="E:\Loreal_GT_MT\annca\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config=":library"><source path="E:\Loreal_GT_MT\library\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config="main"><source path="E:\Loreal_GT_MT\Loreal_Gt\src\main\assets"/><source path="E:\Loreal_GT_MT\Loreal_Gt\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Loreal_GT_MT\Loreal_Gt\src\debug\assets"/></dataSet></merger>
